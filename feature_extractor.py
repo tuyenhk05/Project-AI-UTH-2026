@@ -1,0 +1,1 @@
+﻿# Bộ chuyển URL thành 30 con số
